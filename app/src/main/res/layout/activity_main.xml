@@ -95,7 +95,7 @@
         android:backgroundTint="@color/SteelBlue"
         />
     <Button
-        android:id="@+id/commitBTN"
+        android:id="@+id/submitBTN"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/zatwierdz"
