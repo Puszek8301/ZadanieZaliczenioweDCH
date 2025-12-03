@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">ZadanieZaliczenioweDianaCh</string>
     <string name="dane_pracownika">Dane pracownika</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="imie">Imię</string>
+    <string name="znaki_specjalne">Znaki specjalne</string>
+    <string name="cyfry">Cyfry</string>
+    <string name="male_i_wielkie_litery">Małe i wielkie litery</string>
+    <string name="generuj_haslo">Generuj hasło</string>
+    <string name="zatwierdz">Zatwierdź</string>
 </resources>

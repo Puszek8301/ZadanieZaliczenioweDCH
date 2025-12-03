@@ -13,5 +13,52 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/dane_pracownika"
+        android:textSize="20sp"
+        android:layout_margin="10sp"
+        />
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/imie"
+        android:layout_margin="10sp"
+        />
+    <EditText
+        android:id="@+id/lastName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nazwisko"
+        android:layout_margin="10sp"
+        />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/male_i_wielkie_litery"
+        />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cyfry"
+        />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/znaki_specjalne"
+        />
+    <Button
+        android:layout_width="200sp"
+        android:layout_height="wrap_content"
+        android:text="@string/generuj_haslo"
+        android:layout_marginStart="200sp"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/zatwierdz"
         />
 </LinearLayout>
