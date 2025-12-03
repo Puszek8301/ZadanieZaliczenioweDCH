@@ -8,4 +8,7 @@
     <string name="male_i_wielkie_litery">Małe i wielkie litery</string>
     <string name="generuj_haslo">Generuj hasło</string>
     <string name="zatwierdz">Zatwierdź</string>
+    <string name="generowanie_hasla">Generowanie hasła</string>
+    <string name="ile_znakow">Ile znaków?</string>
+    <string name="stanowisko">Stanowisko</string>
 </resources>
